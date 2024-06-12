@@ -6,7 +6,7 @@
 
 
 ## 
-![Logo](https://github.com/Abril12Sanchez/Abril12Sanchez/assets/137373616/a868b89c-6829-4088-b7e5-12d227659d02)
+![Logo](https://github.com/Abril12Sanchez/Abril12Sanchez/assets/137373616/1d59da3e-ea0f-41d0-ba47-f0939ae40b79)
 
 Hola mi nombre es Abril y soy estudiante de Tecnologias de la información (TI) en UTSJR, me apasionan los codigos y eliminar los bugs. Me encanta crear interfaces dinamicas y eficaces. 
 
