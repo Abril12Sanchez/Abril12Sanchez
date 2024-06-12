@@ -8,15 +8,15 @@
 ## 
 ![Logo](https://github.com/Abril12Sanchez/Abril12Sanchez/assets/137373616/1d59da3e-ea0f-41d0-ba47-f0939ae40b79)
 
-Hola mi nombre es Abril y soy estudiante de Tecnologias de la información (TI) en UTSJR, me apasionan los codigos y eliminar los bugs. Me encanta crear interfaces dinamicas y eficaces. 
+Hola mi nombre es Abril y soy estudiante de Tecnologías de la información (TI) en UTSJR, me apasionan los códigos y eliminar los bugs. Me encanta crear interfaces dinámicas y eficaces. 
 
 ## 🌎 About Me
 
-👩‍💻 Actualmente estoy estudiando Ingenería en Tecnologías de la información y desarrollando un programa para CFE. 
+👩‍💻 Actualmente estoy estudiando Ingeniría en Tecnologías de la información y desarrollando un programa para CFE. 
 
-🧠 Por ahora estoy aprendiendo flutter entre otras tecnologias. 
+🧠 Por ahora estoy aprendiendo flutter entre otras tecnologías. 
 
-👯‍♀️ Me gustaria colaborar en proyectos innovadores.
+👯‍♀️ Me gustaría colaborar en proyectos innovadores.
 
 💬 Puedes preguntarme dudas sobre alguna tecnología que maneje. 
 
